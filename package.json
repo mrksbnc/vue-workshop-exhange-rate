@@ -8,12 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "vue": "^3.2.25",
-<<<<<<< HEAD
+    "vue-router": "^4.0.14",
     "vuex": "^4.0.2"
-=======
-    "vue-router": "^4.0.14"
->>>>>>> main
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
